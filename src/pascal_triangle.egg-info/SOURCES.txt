@@ -1,0 +1,8 @@
+README.md
+setup.py
+bin/pascal_triangle
+src/pascal_triangle.egg-info/PKG-INFO
+src/pascal_triangle.egg-info/SOURCES.txt
+src/pascal_triangle.egg-info/dependency_links.txt
+src/pascal_triangle.egg-info/requires.txt
+src/pascal_triangle.egg-info/top_level.txt
